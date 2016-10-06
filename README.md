@@ -6,7 +6,7 @@ Esta base registra los femicidios y homicidios agravados por el género desde di
 Características
 ---------------
 
--   **Fecha de Publicación:**14/09/2016
+-   **Fecha de Publicación:**01/09/2016
 
 -   **Recurso:**Registro, Sistematización y Seguimiento de femicidios y de homicidios agravados por el género
 
@@ -39,15 +39,15 @@ Recursos
 
 -   **edad (string):** Edad de la víctima.
 
--   **identidad\_genero (string):** Identidad de género.
+-   **identidad_genero (string):** Identidad de género.
 
--   **tipo\_víctima(string):** Tipo de víctima (si se trata de un femicidio directo o vinculado).
+-   **tipo_victima(string):** Tipo de víctima (si se trata de un femicidio directo o vinculado).
 
--   **lugar\_hecho (string):** Lugar del hecho.
+-   **lugar_hecho (string):** Lugar del hecho.
 
--   **modalidad\_comisiva(string):** Modalidad comisiva
+-   **modalidad_comisiva(string):** Modalidad comisiva
 
--   **Fecha\_hecho (string):** Fecha del hecho.
+-   **fecha_hecho (string):** Fecha del hecho.
 
 Notas
 -----
