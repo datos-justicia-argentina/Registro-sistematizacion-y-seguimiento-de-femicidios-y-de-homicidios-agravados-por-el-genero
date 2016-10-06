@@ -22,14 +22,14 @@ Características
 
 -   **Frecuencia de Actualización:** Trimestral
 
-Recursos
---------
+Recursos Disponibles
+--------------------
 
 ### Registro, Sistematización y Seguimiento de femicidios y de homicidios agravados por el género
 
--   **Nombre:** registro-de-femicidios.csv.
+-   **Nombre del archivo:** registro-de-femicidios.csv.
 
--   **Descripción:** Registra los femicidios y homicidios agravados por el género desde diciembre del año 2012 a la fecha.
+-   **Descripción del contenido:** Registra los femicidios y homicidios agravados por el género desde diciembre del año 2012 a la fecha.
 
 -   **Formato:** CSV separado por comas.
 
