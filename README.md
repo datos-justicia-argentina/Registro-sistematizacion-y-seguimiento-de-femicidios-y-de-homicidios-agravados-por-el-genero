@@ -27,29 +27,29 @@ Recursos Disponibles
 
 ### Registro, Sistematización y Seguimiento de femicidios y de homicidios agravados por el género
 
--   **Nombre del archivo:** registro-de-femicidios.csv.
+-   **Nombre del archivo:** registro-de-femicidios.csv
 
--   **Descripción del contenido:** Registra los femicidios y homicidios agravados por el género desde diciembre del año 2012 a la fecha.
+-   **Descripción del contenido:** Registra los femicidios y homicidios agravados por el género desde diciembre del año 2012 a la fecha
 
--   **Formato:** CSV separado por comas.
+-   **Formato:** CSV separado por comas
 
-#### Campos del recurso
+### Campos del recurso
 
--   **numero (int):** Número de orden.
+-   **numero (int):** Número de orden
 
--   **edad (string):** Edad de la víctima.
+-   **edad (string):** Edad de la víctima
 
--   **identidad_genero (string):** Identidad de género.
+-   **identidad_genero (string):** Identidad de género
 
--   **tipo_victima(string):** Tipo de víctima (si se trata de un femicidio directo o vinculado).
+-   **tipo_victima(string):** Tipo de víctima (si se trata de un femicidio directo o vinculado)
 
--   **lugar_hecho (string):** Lugar del hecho.
+-   **lugar_hecho (string):** Lugar del hecho
 
 -   **modalidad_comisiva(string):** Modalidad comisiva
 
--   **fecha_hecho (string):** Fecha del hecho.
+-   **fecha_hecho (string):** Fecha del hecho
 
-Notas
------
+### Notas
+
 
 La Unidad de Registro, Sistematización y Seguimiento de femicidios y de homicidios agravados por el género se creó por [Resolución Nº 1449/2015](http://www.biblioteca.jus.gov.ar/RES_1449_2015.pdf) del Ministerio de Justicia y Derechos Humanos, en cumplimiento con la “**Ley de protección integral para prevenir, sancionar y erradicar la violencia contra las mujeres en los ámbitos en que desarrollen sus relaciones interpersonales”**
