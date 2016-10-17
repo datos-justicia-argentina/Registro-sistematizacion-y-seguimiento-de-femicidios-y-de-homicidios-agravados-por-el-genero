@@ -18,11 +18,11 @@ Características
 
 -   **Responsable:** Unidad de Registro, Sistematización y Seguimiento de femicidios y de homicidios agravados por el género
 
--   **Grupos:** Derechos Humanos
+-   **Grupo:** Derechos Humanos
 
 -   **Frecuencia de Actualización:** Trimestral
 
-Recursos Disponibles
+Recursos disponibles
 --------------------
 
 ### Registro, Sistematización y Seguimiento de femicidios y de homicidios agravados por el género
