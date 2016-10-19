@@ -8,8 +8,6 @@ Características
 
 -   **Fecha de Publicación:** 01/09/2016
 
--   **Recurso:** Registro, Sistematización y Seguimiento de femicidios y de homicidios agravados por el género
-
 -   **Tags o Etiquetas:** femicidios, genero, homicidios
 
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Dirección Nacional de Asuntos Jurídicos en materia de Derechos Humanos. Unidad de Registro, Sistematización y Seguimiento de femicidios y de homicidios agravados por el género
