@@ -33,7 +33,7 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **numero (int):** Número de orden
+-   **numero (int):** Número de caso
 
 -   **edad (string):** Edad de la víctima
 
