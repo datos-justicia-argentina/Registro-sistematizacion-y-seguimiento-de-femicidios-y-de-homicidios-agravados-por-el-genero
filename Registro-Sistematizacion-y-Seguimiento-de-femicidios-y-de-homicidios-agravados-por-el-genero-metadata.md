@@ -45,7 +45,7 @@ Recursos disponibles
 
 -   **modalidad_comisiva(string):** Modalidad comisiva
 
--   **fecha_hecho (string):** Fecha del hecho
+-   **fecha_hecho (date):** Fecha del hecho
 
 ### Notas
 
