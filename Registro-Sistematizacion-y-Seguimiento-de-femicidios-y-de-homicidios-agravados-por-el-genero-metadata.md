@@ -35,15 +35,15 @@ Recursos disponibles
 
 -   **numero (int):** Número de caso
 
--   **edad (string):** Edad de la víctima
+-   **edad (int):** Edad de la víctima
 
 -   **identidad_genero (string):** Identidad de género
 
--   **tipo_victima(string):** Tipo de víctima (si se trata de un femicidio directo o vinculado)
+-   **tipo_victima (string):** Tipo de víctima (si se trata de un femicidio directo o vinculado)
 
 -   **lugar_hecho (string):** Lugar del hecho
 
--   **modalidad_comisiva(string):** Modalidad comisiva
+-   **modalidad_comisiva (string):** Modalidad comisiva
 
 -   **fecha_hecho (date):** Fecha del hecho
 
