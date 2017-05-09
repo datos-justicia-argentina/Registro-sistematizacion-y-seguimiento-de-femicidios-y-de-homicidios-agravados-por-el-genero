@@ -6,7 +6,7 @@ Esta base registra los femicidios y homicidios agravados por el género desde di
 Características
 ---------------
 
--   **Fecha de Publicación:** 01/09/2016
+-   **Fecha de Primera Publicación:** 01/09/2016
 
 -   **Tags o Etiquetas:** femicidios, genero, homicidios
 
