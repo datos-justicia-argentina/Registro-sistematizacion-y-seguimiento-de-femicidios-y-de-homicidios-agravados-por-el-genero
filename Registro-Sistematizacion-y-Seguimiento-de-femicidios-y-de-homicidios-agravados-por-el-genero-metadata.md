@@ -27,27 +27,29 @@ Recursos disponibles
 
 -   **Nombre del archivo:** registro-de-femicidios.csv
 
--   **Descripción del contenido:** Registra los femicidios y homicidios agravados por el género desde diciembre del año 2012 a la fecha
+-   **Descripción del contenido:** registra los femicidios y homicidios agravados por el género desde diciembre del año 2012 a la fecha
 
--   **Formato:** CSV separado por comas
+-   **Formato:** CSV delimitado por comas, codificado en UTF-8
+
+-   **Rango temporal :** listado actualizado a la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
--   **numero (int):** Número de caso
+-   **numero (int):** número de caso
 
--   **edad (int):** Edad de la víctima
+-   **edad (int):** edad de la víctima
 
--   **identidad_genero (string):** Identidad de género
+-   **identidad_genero (string):** identidad de género
 
--   **tipo_victima (string):** Tipo de víctima (si se trata de un femicidio directo o vinculado)
+-   **tipo_victima (string):** tipo de víctima (si se trata de un femicidio directo o vinculado)
 
--   **lugar_hecho (string):** Lugar del hecho
+-   **lugar_hecho (string):** lugar del hecho
 
--   **modalidad_comisiva (string):** Modalidad comisiva
+-   **modalidad_comisiva (string):** modalidad comisiva
 
--   **fecha_hecho (date):** Fecha del hecho
+-   **fecha_hecho (date):** fecha del hecho
 
 ### Notas
 
 
-La Unidad de Registro, Sistematización y Seguimiento de femicidios y de homicidios agravados por el género se creó por [Resolución Nº 1449/2015](http://www.biblioteca.jus.gov.ar/RES_1449_2015.pdf) del Ministerio de Justicia y Derechos Humanos, en cumplimiento con la “**Ley de protección integral para prevenir, sancionar y erradicar la violencia contra las mujeres en los ámbitos en que desarrollen sus relaciones interpersonales”**
+La Unidad de Registro, Sistematización y Seguimiento de femicidios y de homicidios agravados por el género se creó por [Resolución Nº 1449/2015](http://www.biblioteca.jus.gov.ar/RES_1449_2015.pdf) del Ministerio de Justicia y Derechos Humanos, en cumplimiento con la “**Ley de protección integral para prevenir, sancionar y erradicar la violencia contra las mujeres en los ámbitos en que desarrollen sus relaciones interpersonales”**.
