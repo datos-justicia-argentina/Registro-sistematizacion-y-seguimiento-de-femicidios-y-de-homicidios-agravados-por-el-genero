@@ -1,4 +1,4 @@
-Registro, Sistematización y Seguimiento de Femicidios y de Homicidios Agravados por el Género
+Registro, Sistematización y Seguimiento de femicidios y de homicidios agravados por el género
 =============================================================================================
 
 Esta base registra los femicidios y homicidios agravados por el género desde diciembre del año 2012 a la fecha. Se nutre de diversas fuentes: artículos de prensa escrita, denuncias policiales y judiciales, denuncias realizadas ante la Secretaría de Derechos Humanos.
