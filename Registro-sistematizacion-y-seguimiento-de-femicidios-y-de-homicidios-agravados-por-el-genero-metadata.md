@@ -23,7 +23,7 @@ Características
 Recursos disponibles
 --------------------
 
-### Registro, Sistematización y Seguimiento de femicidios y de homicidios agravados por el género
+### Registro, sistematización y seguimiento de femicidios y de homicidios agravados por el género
 
 -   **Nombre del archivo:** registro-de-femicidios.csv
 
