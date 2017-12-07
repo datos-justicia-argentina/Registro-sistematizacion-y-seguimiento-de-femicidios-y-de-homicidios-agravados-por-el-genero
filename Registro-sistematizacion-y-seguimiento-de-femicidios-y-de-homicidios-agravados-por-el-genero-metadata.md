@@ -53,3 +53,5 @@ Recursos disponibles
 
 
 La Unidad de Registro, Sistematización y Seguimiento de femicidios y de homicidios agravados por el género se creó por [Resolución Nº 1449/2015](http://www.biblioteca.jus.gov.ar/RES_1449_2015.pdf) del Ministerio de Justicia y Derechos Humanos, en cumplimiento con la “**Ley de protección integral para prevenir, sancionar y erradicar la violencia contra las mujeres en los ámbitos en que desarrollen sus relaciones interpersonales”**.
+
+* S/D: Se asigna a los campos no informados.
