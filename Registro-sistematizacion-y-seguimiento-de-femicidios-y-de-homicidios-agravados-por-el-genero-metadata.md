@@ -3,6 +3,8 @@ Registro, sistematización y seguimiento de femicidios y de homicidios agravados
 
 Esta base registra los femicidios y homicidios agravados por el género desde diciembre del año 2012 a la fecha. Se nutre de diversas fuentes: artículos de prensa escrita, denuncias policiales y judiciales, denuncias realizadas ante la Secretaría de Derechos Humanos.
 
+http://datos.jus.gob.ar/dataset/registro-sistematizacion-y-seguimiento-de-femicidios-y-homicidios-agravados-por-el-genero
+
 Características
 ---------------
 
@@ -27,7 +29,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** registro-de-femicidios-AAAA-MM-DD.csv
 
--   **Descripción del contenido:** registra los femicidios y homicidios agravados por el género desde diciembre del año 2012 a la fecha
+-   **Descripción del contenido:** se detalla el registro de femicidios y homicidios agravados por el género desde diciembre del año 2012 a la fecha
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
