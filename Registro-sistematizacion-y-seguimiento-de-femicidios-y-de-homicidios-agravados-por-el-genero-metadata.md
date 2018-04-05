@@ -51,6 +51,14 @@ Recursos disponibles
 
 -   **fecha_hecho (date):** fecha del hecho
 
+### Registro, sistematización y seguimiento de  femicidios y homicidios agravados por el género - AAAA
+
+- **Nombre:** registro-de-femicidios-AAAA.zip
+
+- **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos publicados en el portal datos.jus.gob.ar durante dicho año
+
+- **Formato:** ZIP
+
 ### Notas
 
 La Unidad de Registro, Sistematización y Seguimiento de femicidios y de homicidios agravados por el género se creó por [Resolución Nº 1449/2015](http://www.biblioteca.jus.gov.ar/RES_1449_2015.pdf) del Ministerio de Justicia y Derechos Humanos, en cumplimiento con la “**Ley de protección integral para prevenir, sancionar y erradicar la violencia contra las mujeres en los ámbitos en que desarrollen sus relaciones interpersonales”**.
