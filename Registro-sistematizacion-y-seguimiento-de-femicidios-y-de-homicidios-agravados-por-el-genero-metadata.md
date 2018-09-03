@@ -37,19 +37,21 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **numero (int):** número de caso
+-   **caso_numero (int):** número de caso
 
--   **edad (int):** edad de la víctima
+-   **victima_edad (int):** edad de la víctima
 
--   **identidad_genero (string):** identidad de género
+-   **victima_identidad_genero (string):** identidad de género
 
--   **tipo_victima (string):** tipo de víctima (si se trata de un femicidio directo o vinculado)
+-   **victima_tipo (string):** tipo de víctima (si se trata de un femicidio directo o vinculado)
 
--   **lugar_hecho (string):** lugar del hecho
+-   **hecho_provincia (string):** provincia del hecho
 
--   **modalidad_comisiva (string):** modalidad comisiva
+-   **hecho_modalidad_comisiva (string):** modalidad comisiva
 
--   **fecha_hecho (date):** fecha del hecho
+-   **hecho_fecha (date):** fecha del hecho
+
+-   **hecho_provincia_indec_id (date):** código de provincia donde está situado el CAJ, según la codificación de provincia implementada por INDEC
 
 ### Registro, sistematización y seguimiento de  femicidios y homicidios agravados por el género - AAAA
 
