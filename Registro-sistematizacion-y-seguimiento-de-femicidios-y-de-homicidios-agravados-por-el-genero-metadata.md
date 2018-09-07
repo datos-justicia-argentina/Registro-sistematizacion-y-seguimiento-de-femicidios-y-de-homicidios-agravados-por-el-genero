@@ -51,6 +51,10 @@ Recursos disponibles
 
 -   **hecho_fecha (date):** fecha del hecho
 
+-   **fuente_tipo (string):** tipo de fuente de los datos
+
+-   **fuente_link (string):** link a la fuente de los datos, cuando esta estuviera publicada en internet
+
 -   **hecho_provincia_indec_id (date):** código de provincia donde está situado el CAJ, según la codificación de provincia implementada por INDEC
 
 ### Registro, sistematización y seguimiento de  femicidios y homicidios agravados por el género - AAAA
