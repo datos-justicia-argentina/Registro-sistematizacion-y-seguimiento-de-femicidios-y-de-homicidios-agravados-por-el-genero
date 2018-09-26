@@ -2,6 +2,7 @@ Registro, sistematización y seguimiento de femicidios y de homicidios agravados
 =============================================================================================
 
 Esta base registra los femicidios y homicidios agravados por el género desde diciembre del año 2012 a la fecha. Se nutre de diversas fuentes: artículos de prensa escrita, denuncias policiales y judiciales, denuncias realizadas ante la Secretaría de Derechos Humanos.
+Se deja constancia que, desde un punto de vista operativo, la Unidad de Registro, Sistematización y Seguimiento de Femicidios y Homicidios agravados por el género (URSSF) recopila y sistematiza información sobre el fenómeno a lo largo de todo el país, tomando como fuente principal el análisis diario de medios de prensa y difusión nacionales y provinciales. El cuerpo de información se contrasta periódicamente con otras bases de datos con el objetivo de detectar errores y obstáculos para mejorar y fortalecer la metodología empleada; dicho cotejo puede derivar, por un lado, en la inclusión de casos que por diferentes motivos no habían sido considerados, y por otro, en la revisión de otros que sí fueron incluidos en la base de datos pero que necesitan ser objeto de un nuevo análisis
 
 http://datos.jus.gob.ar/dataset/registro-sistematizacion-y-seguimiento-de-femicidios-y-homicidios-agravados-por-el-genero
 
