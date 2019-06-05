@@ -55,7 +55,7 @@ Recursos disponibles
 
 -   **fuente_link (string):** link a la fuente de los datos, cuando esta estuviera publicada en internet
 
--   **hecho_provincia_indec_id (date):** código de provincia donde se produjo el hecho, según la codificación de provincia implementada por INDEC
+-   **hecho_provincia_id (date):** código de provincia donde se produjo el hecho, según la codificación de provincia implementada por INDEC (hasta 05/2019 nombre campo hecho_provincia_indec_id)
 
 ### Registro, sistematización y seguimiento de  femicidios y homicidios agravados por el género - AAAA
 
