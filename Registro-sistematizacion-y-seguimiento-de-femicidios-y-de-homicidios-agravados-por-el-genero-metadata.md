@@ -12,11 +12,11 @@ Características
 
 -   **Tags o Etiquetas:** femicidios, genero, homicidios
 
--   **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Dirección Nacional de Asuntos Jurídicos en materia de Derechos Humanos. Unidad de Registro, Sistematización y Seguimiento de femicidios y de homicidios agravados por el género
+-   **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos. Dirección Nacional de Asuntos Jurídicos en materia de Derechos Humanos. Unidad de Registro, Sistematización y Seguimiento de femicidios y de homicidios agravados por el género
 
--   **Autor:** Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Dirección Nacional de Asuntos Jurídicos en materia de Derechos Humanos. Unidad de Registro, Sistematización y Seguimiento de femicidios y de homicidios agravados por el género
+-   **Autor:** Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos. Dirección Nacional de Asuntos Jurídicos en materia de Derechos Humanos. Unidad de Registro, Sistematización y Seguimiento de femicidios y de homicidios agravados por el género
 
--   **Responsable:** Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Dirección Nacional de Asuntos Jurídicos en materia de Derechos Humanos. Unidad de Registro, Sistematización y Seguimiento de femicidios y de homicidios agravados por el género
+-   **Responsable:** Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos. Dirección Nacional de Asuntos Jurídicos en materia de Derechos Humanos. Unidad de Registro, Sistematización y Seguimiento de femicidios y de homicidios agravados por el género
 
 -   **Grupo:** Derechos Humanos
 
